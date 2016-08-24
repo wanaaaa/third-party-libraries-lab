@@ -1,0 +1,5 @@
+1. Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster. Volley is available through the open AOSP repository.
+
+2. I can use volley to WalMart API
+
+3. I thught I could use volley with gson and retrofit, but it does not work like that.
